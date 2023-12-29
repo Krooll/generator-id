@@ -1,0 +1,10 @@
+{
+  "name": "@krooll/randomid-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pawel Krol <paullkroll@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yarn": "^1.22.21"
+  }
+}
