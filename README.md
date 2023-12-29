@@ -1,0 +1,1 @@
+A simple package that generates a random ID number. To install, use npm install or yarn add followed by the package name.
